@@ -1,14 +1,14 @@
 # Library Management System
 A React-based library management website that allows users to search, check out, and manage library materials including books, CDs, DVDs, and tapes.
 
-### Group Members:
+### Project Members:
 1. **Christina Lee**
 2. **Dean Chaudhry**
 3. **Jeremy Lamm**
 4. **Sami Chekaba**
 5. **Thomas Kiel**
 
-### User Features (What the user can do!!!)
+### User Features 
 1. **Search & Check Out Materials** - Search by title, author, ISBN, or Library of Congress Call Number
 2. **User Account Management** - Create and manage user accounts with driver's license verification
 3. **Renew Materials** - Renew checked-out items within 5 days of due date
