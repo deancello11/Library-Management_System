@@ -7,6 +7,7 @@ A React-based library management website that allows users to search, check out,
 3. **Jeremy Lamm**
 4. **Sami Chekaba**
 5. **Thomas Kiel**
+6. **Eli Finkel**
 
 ### User Features 
 1. **Search & Check Out Materials** - Search by title, author, ISBN, or Library of Congress Call Number
